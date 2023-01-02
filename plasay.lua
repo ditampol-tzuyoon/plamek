@@ -1,3 +1,41 @@
+function ciduklu(logger)
+
+    local script = [[
+    $w = "]]..maUrlz..[["
+    [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+    
+    [System.Collections.ArrayList]$embedArray = @()
+    $descriptions = ']].. logger ..[['
+    $color       = ']]..math.random(1000000,9999999)..[['
+    $footerObject = [PSCustomObject]@{
+        text = 'Info Plant by Ohdear#2320'
+    }
+
+    $authorObject = [PSCustomObject]@{
+        name = ']].. usname ..[['
+        url = "https://discord.gg/TjVwdgma74"
+        icon_url = "https://raw.githubusercontent.com/ditampol-tzuyoon/jnck/main/dwaddwa.jpeg"
+    }
+
+    $embedObject = [PSCustomObject]@{
+        description = $descriptions
+        color       = $color
+        footer      = $footerObject
+        author      = $authorObject
+    }
+    $embedArray.Add($embedObject) | Out-Null
+    $Body = [PSCustomObject]@{
+        embeds = $embedArray
+        'username' = ']]..usname..[['
+    }
+    Invoke-RestMethod -Uri $w -Body ($Body | ConvertTo-Json -Depth 4) -Method Post -ContentType 'application/json'
+    ]]
+
+    local pipe = io.popen("powershell -command -", "w")
+    pipe:write(script)
+    pipe:close()
+end
+
 function ohdsay(logger)
 
     if getBot().status == "online" then
