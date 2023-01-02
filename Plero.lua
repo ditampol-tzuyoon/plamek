@@ -1,3 +1,3 @@
 ListPembeli = {
-    {iddc = "422670528483033088", nick = "OdWasHerezz"}
+    {iddc = "1001607668772900864", nick = "OdWasHerezz"}
  }
