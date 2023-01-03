@@ -3,7 +3,7 @@ ListPembeli = {
     {iddc = "514608997995773963", nick = "14Walthor"},
     {iddc = "882370093957382184", nick = "Zunas"},
     {iddc = "728628332416991373", nick = "mekiky"},
-    {iddc = "550658413315751936", nick = "MOVIKIS"},
+    {iddc = "550658413315751936", nick = "OVERATION"},
     {iddc = "316409421137838080", nick = "Pedescantik"},
     {iddc = "453032872886927371", nick = "KOTYU"},
     {iddc = "456612225130561537", nick = "ShidoTK"},
