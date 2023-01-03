@@ -11,5 +11,16 @@ ListPembeli = {
     {iddc = "211379917307248640", nick = "Gravell"},
     {iddc = "316409421137838080", nick = "Gantengbau"},
     {iddc = "525113932025692171", nick = "BossBach"},
-    {iddc = "845154898797527060", nick = "rsuummi18"}
+    {iddc = "845154898797527060", nick = "rsuummi18"},
+    {iddc = "455336879529918464", nick = "piyuu88"},
+    {iddc = "514608997995773963", nick = "14Walthor"},
+    {iddc = "388042604111069185", nick = "D07Farm"},
+    {iddc = "456612225130561537", nick = "ShidoTK"},
+    {iddc = "709380517006409800", nick = "MAWINBANNED"},
+    {iddc = "361109629381378061", nick = "goldcb100dl"},
+    {iddc = "1019129204060717129", nick = "OxBjorn"},
+    {iddc = "993971490972258374", nick = "Hoopea"},
+    {iddc = "935581740280463430", nick = "WJFP"},
+    {iddc = "688030654608441386", nick = "nafallx100"},
+    {iddc = "495584013625589762", nick = "VERENNN"}
  }
