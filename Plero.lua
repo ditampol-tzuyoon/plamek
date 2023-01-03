@@ -9,5 +9,6 @@ ListPembeli = {
     {iddc = "550658413315751936", nick = "OVERATION"},
     {iddc = "335422307197648896", nick = "Dcstzy15"},
     {iddc = "211379917307248640", nick = "Gravell"},
-    {iddc = "316409421137838080", nick = "Gantengbau"}
+    {iddc = "316409421137838080", nick = "Gantengbau"},
+    {iddc = "525113932025692171", nick = "BossBach"}
  }
