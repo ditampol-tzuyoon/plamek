@@ -22,5 +22,11 @@ ListPembeli = {
     {iddc = "993971490972258374", nick = "Hoopea"},
     {iddc = "935581740280463430", nick = "WJFP"},
     {iddc = "688030654608441386", nick = "nafallx100"},
-    {iddc = "495584013625589762", nick = "VERENNN"}
+    {iddc = "495584013625589762", nick = "VERENNN"},
+    {iddc = "1053193421810044948", nick = "5citacita5"},
+    {iddc = "834371011146416148", nick = "Jumrah"},
+    {iddc = "759384235113971715", nick = "Mocuan"},
+    {iddc = "453032872886927371", nick = "KOTYU"},
+    {iddc = "588036562881871885", nick = "CeiMut"},
+    {iddc = "961929886547734528", nick = "asiahae28"}
  }
