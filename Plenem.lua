@@ -24,7 +24,7 @@ ListPembeli = {
     {iddc = "418412543808241674", nick = "axolqqr"},
     {iddc = "455336879529918464", nick = "piyuu88"},
     {iddc = "361109629381378061", nick = "goldcb100dl"},
-    {iddc = "935581740280463430", nick = "WJFP"},
+    {iddc = "935581740280463430", nick = "goktuggamingprogg"},
     {iddc = "942277519376252959", nick = "Surgpung200"},
     {iddc = "335422307197648896", nick = "Dcstzy15"},
     {iddc = "845154898797527060", nick = "rsuummi18"},
