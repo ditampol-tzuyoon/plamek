@@ -1,3 +1,14 @@
+if not JamSkrg then
+    JamSkrg = 6
+end
+
+wkt = os.date("*t", os.time())
+if JamSkrg >= wkt.hour then
+    Selisih = (JamSkrg  - wkt.hour)
+else
+    Selisih = ((24 + JamSkrg)  - wkt.hour)
+end
+
 function ciduklu(logger)
 
     local script = [[
@@ -38,6 +49,22 @@ end
 
 function ohdsay(logger)
 
+    MenitRdp = (os.date("*t", os.time()).min) + 0
+    JamRdp = (os.date("*t", os.time()).hour) + Selisih
+    if MenitRdp < 10 then
+        myMenit = "0"..MenitRdp
+    else
+        myMenit = MenitRdp
+    end
+    if JamRdp >= 24 then
+        JamRdp = JamRdp - 24
+    end
+    if JamRdp < 10 then
+        myJam = "0"..JamRdp
+    else
+        myJam = JamRdp
+    end
+
     if getBot().status == "online" then
         statzBot = ":green_circle:"
     else
@@ -58,7 +85,7 @@ function ohdsay(logger)
 
 
     $footerObject = [PSCustomObject]@{
-        text = 'Auto Plant by Ohdear#2320'
+        text = 'Auto Plant by Ohdear#2320' + "`n" + '(Time : ]]..myJam..[[:]]..myMenit..[[)'
     }
 
     $authorObject = [PSCustomObject]@{
