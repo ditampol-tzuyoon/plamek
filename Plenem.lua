@@ -111,7 +111,7 @@ ListPembeli = {
     {iddc = "598876138491609089", nick = "DanzKTL"},
     {iddc = "893526990471172096", nick = "SepiderFish"},
     {iddc = "332386460466544641", nick = "Kottu"},
-    {iddc = "553101457688231937", nick = "PeNaMKu"},
+    {iddc = "553101457688231937", nick = "Penamju"},
     {iddc = "757878410352525353", nick = "veraxcuy"},
     {iddc = "854307979036721223", nick = "bhirop198"},
     {iddc = "388836001641922561", nick = "OwnerTetes"},
