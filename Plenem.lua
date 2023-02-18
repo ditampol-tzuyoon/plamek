@@ -145,5 +145,6 @@ ListPembeli = {
     {iddc = "406656534018392064", nick = "MichiVanila"},
     {iddc = "992036856336228392", nick = "FachrulStopIlegal"},
     {iddc = "754633913439354901", nick = "move6ahead"},
-    {iddc = "438947974429671424", nick = "Shikifujiin"}
+    {iddc = "438947974429671424", nick = "Shikifujiin"},
+    {iddc = "521657255339360256", nick = "FlyFirst11"}
 }
