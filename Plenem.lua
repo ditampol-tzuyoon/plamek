@@ -147,5 +147,6 @@ ListPembeli = {
     {iddc = "754633913439354901", nick = "move6ahead"},
     {iddc = "438947974429671424", nick = "Shikifujiin"},
     {iddc = "521657255339360256", nick = "FlyFirst11"},
-    {iddc = "908009441213947905", nick = "gtsbot"}
+    {iddc = "908009441213947905", nick = "gtsbot"},
+    {iddc = "948410200199684106", nick = "VVMI"}
 }
