@@ -45,7 +45,7 @@ ListPembeli = {
     {iddc = "265735067198816259", nick = "CHIKIM"},
     {iddc = "390855427555852291", nick = "sudv"},
     {iddc = "853675179187109888", nick = "DHFUS"},
-    {iddc = "1025736463062675456", nick = "LipoRetinol"},
+    {iddc = "1025736463062675456", nick = "liporetinoll"},
     {iddc = "617246232892407808", nick = "Jnlock"},
     {iddc = "455384591050604547", nick = "JVPD"},
     {iddc = "438025055730139163", nick = "MrArtheus"},
