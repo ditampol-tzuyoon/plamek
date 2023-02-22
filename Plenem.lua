@@ -141,7 +141,7 @@ ListPembeli = {
     {iddc = "477078525896032257", nick = "SENSEIGULO"},
     {iddc = "540758447810150412", nick = "gormutia23"},
     {iddc = "443788266626351114", nick = "iRiyuuun"},
-    {iddc = "547032936453767169", nick = "dranest23"},
+    {iddc = "547032936453767169", nick = "dranest27"},
     {iddc = "406656534018392064", nick = "MichiVanila"},
     {iddc = "992036856336228392", nick = "FachrulStopIlegal"},
     {iddc = "754633913439354901", nick = "move6ahead"},
