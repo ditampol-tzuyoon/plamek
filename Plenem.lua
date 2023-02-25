@@ -87,7 +87,7 @@ ListPembeli = {
     {iddc = "949474781290463294", nick = "KangCMDIdann"},
     {iddc = "1002625833191608400", nick = "Azumaga"},
     {iddc = "358234096650158082", nick = "EugeneRanger"},
-    {iddc = "961591462947065907", nick = "dilalala"},
+    {iddc = "961591462947065907", nick = "DilaPRIDE"},
     {iddc = "597036774342131733", nick = "PengabdiMonyet"},
     {iddc = "902144872096608277", nick = "LockOD"},
     {iddc = "889008175133626368", nick = "XFEXFEM"},
