@@ -50,7 +50,7 @@ ListPembeli = {
     {iddc = "778810738240258048", nick = "TRAJACKY"},
     {iddc = "951558227127046204", nick = "Jdyxbot1"},
     {iddc = "378832593858199552", nick = "NUMEBGL"},
-    {iddc = "451780901664194578", nick = "DkidzReal"},
+    {iddc = "451780901664194578", nick = "KidzJagoanMama"},
     {iddc = "734980722284036206", nick = "NIRTANAS"},
     {iddc = "905388946358423562", nick = "GyuKaKyu"},
     {iddc = "986932962031435776", nick = "Sahasurg21"},
