@@ -149,7 +149,7 @@ ListPembeli = {
     {iddc = "521657255339360256", nick = "FlyFirst11"},
     {iddc = "908009441213947905", nick = "gtsbot"},
     {iddc = "948410200199684106", nick = "VVMI"},
-    {iddc = "759022232210374657", nick = "BiawakOM"},
+    {iddc = "759022232210374657", nick = "BiyuTuru"},
     {iddc = "773490212859805728", nick = "Sugihpradita"},
     {iddc = "538721748346994698", nick = "Jengkale"},
     {iddc = "956613892077928528", nick = "Milliylov"},
