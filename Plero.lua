@@ -11,7 +11,7 @@ ListPembeli = {
     {iddc = "335422307197648896", nick = "DropSave17"},
     {iddc = "211379917307248640", nick = "Gravell"},
     {iddc = "316409421137838080", nick = "Gantengbau"},
-    {iddc = "525113932025692171", nick = "BossBach"},
+    {iddc = "525113932025692171", nick = "WtkDf"},
     {iddc = "845154898797527060", nick = "OwnerBangJun"},
     {iddc = "455336879529918464", nick = "piyuu88"},
     {iddc = "514608997995773963", nick = "14Walthor"},
