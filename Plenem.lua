@@ -76,7 +76,7 @@ ListPembeli = {
     {iddc = "295511593108897792", nick = "SATANCOMAND"},
     {iddc = "331687322112491520", nick = "FAKEGRYZ"},
     {iddc = "332927582775279616", nick = "PEPEK102"},
-    {iddc = "483374134416375810", nick = "GuardianTGG"},
+    {iddc = "483374134416375810", nick = "Drtizhar"},
     {iddc = "825740882270486528", nick = "BambangCuan"},
     {iddc = "256413719725080588", nick = "GRUDpol"},
     {iddc = "696911514350911490", nick = "wzlz"},
