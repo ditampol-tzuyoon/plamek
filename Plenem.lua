@@ -160,7 +160,7 @@ ListPembeli = {
     {iddc = "720503455055085649", nick = "RadenConon"},
     {iddc = "400249273435815936", nick = "OxRoz"},
     {iddc = "884389640390451262", nick = "Cacaviers"},
-    {iddc = "513285129280552990", nick = "BrustFalls1234"},
+    {iddc = "513285129280552990", nick = "brustea"},
     {iddc = "768118364681273385", nick = "JenderalRodric"},
     {iddc = "811237455638167615", nick = "hklmopnk"},
     {iddc = "884499020817506314", nick = "lemon125"},
