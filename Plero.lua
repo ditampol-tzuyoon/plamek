@@ -122,7 +122,7 @@ ListPembeli = {
     {iddc = "443788266626351114", nick = "iRiyuuun"},
     {iddc = "547032936453767169", nick = "dranest27"},
     {iddc = "406656534018392064", nick = "DrsPutriAjeo"},
-    {iddc = "754633913439354901", nick = "KEMALKEMANA"},
+    {iddc = "754633913439354901", nick = "BudiXoid"},
     {iddc = "438947974429671424", nick = "Shikifujiin"},
     {iddc = "521657255339360256", nick = "FlyFirst11"},
     {iddc = "908009441213947905", nick = "gtsbot"},
