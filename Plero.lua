@@ -117,7 +117,7 @@ ListPembeli = {
     {iddc = "817624349224992779", nick = "Linxiaoan"},
     {iddc = "898237069862789160", nick = "dontcryyy"},
     {iddc = "701342840696864798", nick = "Larsit"},
-    {iddc = "838439967176785961", nick = "eluzz"},
+    {iddc = "838439967176785961", nick = "heluzzz"},
     {iddc = "540758447810150412", nick = "Solarpanel150w"},
     {iddc = "443788266626351114", nick = "iRiyuuun"},
     {iddc = "547032936453767169", nick = "dranest27"},
