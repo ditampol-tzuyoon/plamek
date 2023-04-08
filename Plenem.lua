@@ -94,7 +94,7 @@ ListPembeli = {
     {iddc = "792742181890687016", nick = "MeilanSave2"},
     {iddc = "645904196951998464", nick = "ChampbozzGT"},
     {iddc = "1006873184013914142", nick = "FALBOnad"},
-    {iddc = "1012023850227208293", nick = "jercud"},
+    {iddc = "1012023850227208293", nick = "wpfRFJK"},
     {iddc = "495594987547918336", nick = "manteokkk"},
     {iddc = "721987192775245848", nick = "GeprekBOY"},
     {iddc = "836957632559316993", nick = "tongpangs"},
