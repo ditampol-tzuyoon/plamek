@@ -108,7 +108,7 @@ ListPembeli = {
     {iddc = "310620473975242752", nick = "WryPhoto"},
     {iddc = "521215179875287055", nick = "Keremnofor60"},
     {iddc = "806729117298982922", nick = "MawMoot"},
-    {iddc = "598876138491609089", nick = "DanzKTL"},
+    {iddc = "598876138491609089", nick = "haykap11"},
     {iddc = "893526990471172096", nick = "SepiderFish"},
     {iddc = "332386460466544641", nick = "Kottu"},
     {iddc = "553101457688231937", nick = "asfktu040"},
