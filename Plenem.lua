@@ -11,7 +11,7 @@ ListPembeli = {
     {iddc = "961929886547734528", nick = "asiahae27"},
     {iddc = "863396091868872714", nick = "RoyalFarmer89"},
     {iddc = "261481844598505472", nick = "PENTLUME"},
-    {iddc = "336391397106253835", nick = "cuakscuaks26"},
+    {iddc = "336391397106253835", nick = "kucay4"},
     {iddc = "994089791941513267", nick = "CieleSan"},
     {iddc = "1019129204060717129", nick = "OxBjorn"},
     {iddc = "262666680004640770", nick = "RLNT"},
